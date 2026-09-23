@@ -6,13 +6,13 @@ I am currently a beginner in programming, developing my foundations through prac
 
 ## Projects
 
-### 01 — Python Calculator
+### 01 - Python Calculator
 
 A basic command-line calculator built while learning Python fundamentals.
 
-Python, variables, functions, conditionals, input/output.
+Python, variables, functions, conditionals, input/output, while loop
 
-### 02 — System Resource Watchdog
+### 02 - System Resource Watchdog
 
 A Bash script for Linux that monitors disk and RAM usage and generates alerts when usage exceeds an definde threshold.
 

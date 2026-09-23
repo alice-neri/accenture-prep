@@ -1,4 +1,4 @@
-# Accenture Bootcamp Preparation
+## Accenture Bootcamp Preparation
 
 This repository contains projects I am building while preparing for an Accenture bootcamp.
 

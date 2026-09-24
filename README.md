@@ -24,5 +24,10 @@ Beginner-level command-line simulation of bank operations, built for if-elif-els
 
 Python, variables, conditionals, input/output, while loop
 
+### 04 - Simple Pokedex with JSON
+
+A simple command-line Pokédex that loads Pokémon data from a JSON file and looks up a Pokémon by name, printing its type and weaknesses if found.
+
+Python, json module, file I/O, lists, dictionaries, loops, conditionals, string concatenation, str() conversion, input/output
 
 This portfolio documents my progression from programming fundamentals toward artificial intelligence.

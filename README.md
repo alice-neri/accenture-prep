@@ -18,6 +18,11 @@ A Bash script for Linux that monitors disk and RAM usage and generates alerts wh
 
 Bash, Linux, pipelines, variables, conditionals, command-line utilities.
 
+### 03 - Simple bank transfers simulator
+
+Beginner-level command-line simulation of bank operations, built for if-elif-else practice
+
+Python, variables, conditionals, input/output, while loop
 
 
 This portfolio documents my progression from programming fundamentals toward artificial intelligence.

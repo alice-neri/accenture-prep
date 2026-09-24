@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bulbasaur",
+        "type": "Grass/Poison",
+        "weaknesses": ["Fire", "Psychic", "Flying", "Ice"]
+    },
+    {
+        "name": "Squirtle",
+        "type": "Water",
+        "weaknesses": ["Electric", "Grass"]
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "weaknesses": ["Ground"]
+    }
+]

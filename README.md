@@ -30,4 +30,12 @@ A simple command-line Pokédex that loads Pokémon data from a JSON file and loo
 
 Python, json module, file I/O, lists, dictionaries, loops, conditionals, string concatenation, str() conversion, input/output
 
+### 05 - Tiny AI Chat
+
+A minimal command-line chatbot that sends your prompt to a free AI endpoint and prints the reply. No API key, no dependencies, no pip install.
+
+Python, urllib.request, urllib.parse, f-strings, while loop, conditionals, input/output
+
+
+
 This portfolio documents my progression from programming fundamentals toward artificial intelligence.
